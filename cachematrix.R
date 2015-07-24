@@ -1,5 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+# This file contains three functions. The first function, makeCacheMatrix,
+# creates a special matrix list that contains a square matrix and can cache
+# its inverse. The second function, cacheSolve, takes the special matrix
+# list and checks if the inverse is cached, and if its not, it calculates and
+# stores it. The third function, testsquarematrix, tests whether a given
+# matrix is square (i.e. has equal dimensions).
 
 ## Write a short comment describing this function
 ## Function makeCacheMatrix(x)
